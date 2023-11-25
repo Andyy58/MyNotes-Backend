@@ -1,0 +1,2 @@
+Built custom REST API for the application using Node.js and Express.js to handle CRUD operations on the database such as user authentication and authorization.
+Wrote custom middleware to log requests, log errors, 
